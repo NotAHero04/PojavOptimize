@@ -27,4 +27,7 @@ PojavOptimize: Original for Minecraft 1.18.x will be a subset of "apple". That's
 - The High variant: has Sodium.
 - The Low variant: doesn't have Sodium.
 
-### For 1.18.1/1.18.2: COMING SOON!
+### For 1.18.1: 
+- The "next" variant: PojavOptimize "apple". (still in alpha state)
+
+### For 1.18.2: (we still need to wait for mods to be stabilized)
