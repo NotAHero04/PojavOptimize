@@ -65,7 +65,7 @@ PojavOptimize: Original for Minecraft 1.18.x will be a subset of "apple". That's
 | Lychee | **Creativity** | ? (currently forgot, sorry) |
 | Mod Menu | Utility | Provides a list of installed mods, just like Forge. |
 | Mouse Tweaks | Utility | Brings more useful features for the mouse. |
-| Nether Portal Fix | Fix | Fixes a bug which makes the XP bar disappear for a bit when switching dimensions. |
+| Nether Portal Fix | Fix | Fixes a bug that causes another nether portal to spawn when go back and forth to the Nether. |
 | No Null Processors | Fix | Fixes a bug which crashes the game unexpectedly; can be seen more frequently when a chunk pregenerator is working. |
 | Not Enough Crashes | Utility | Catches game crashes and provides some crash info, plus the ability to continue playing without reloading the game. |
 | Playtime Count | Utility | Healthy mining! Provides a time counter for seeing how long you have played the game. A superior alternative to the boring toast for South Korea players :) |
