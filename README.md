@@ -93,3 +93,19 @@ PojavOptimize: Original for Minecraft 1.18.x will be a subset of "apple". That's
 - The "next" variant: PojavOptimize "apple". (still in alpha state)
 
 ### For 1.18.2: (we still need to wait for mods to be stabilized)
+
+# Okay, this modpack is all about optimization. How optimized is it?
+
+A test (for 1.16.5) has been made by Doregon, a developer of PojavLauncher, on an iOS device having Apple A9 chipset. The result is that PojavOptimize perform around 25% better than OptiFine (42 fps vs 32 fps).
+
+Since more things are added in newer versions, should we take a look at many aspacts as possible?
+
+This table is the result tested on a Samsung Galaxy A12, with the Mediatek Helio G35 chipset.
+
+| Aspect | Vanilla | PojavOptimize |
+| - | - | - |
+| Game loading time | 95 seconds | 127 seconds
+| Initial world loading time | (untested) | 43 seconds |
+| Normal world loading time | (untested) | 23 seconds |
+| Framerate | 23 - 32 fps | 27 - 39 fps |
+| Integrated server latency | (untested) | (untested) |
