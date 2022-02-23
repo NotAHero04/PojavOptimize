@@ -100,7 +100,7 @@ A test (for 1.16.5) has been made by Doregon, a developer of PojavLauncher, on a
 
 Since more things are added in newer versions, should we take a look at many aspacts as possible?
 
-This table is the result tested on a Samsung Galaxy A12, with the Mediatek Helio G35 chipset.
+This table is the result tested on a Samsung Galaxy A12, with the Mediatek Helio G35 chipset, using PojavOptimize 0.3.0.
 
 | Aspect | Vanilla | PojavOptimize |
 | - | - | - |
