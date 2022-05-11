@@ -1,3 +1,12 @@
+# THIS PROJECT HAS BEEN STALLED FOR 2 MONTHS. WHAT'S THE REASON?
+
+It's fun to make a modpack, but there are two reasons that drive me away from continuing it for now:
+
+- Time. I have to admit that the GCSE takes all of my time.
+
+- Performance: It's not good on performance anymore, due to the fact that Sodium is not bundled and will not work, at least for now. It's not happy to see my work being beaten by just a mod that works totally fine: OptiFine.
+
+
 # PojavOptimize
 Welcome to PojavOptimize, a modpack that can boost the performance of PojavLauncher...
 
